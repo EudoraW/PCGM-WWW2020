@@ -29,21 +29,12 @@ You can use the [TianGong-PDR](http://www.thuir.cn/data-pdr/) dataset that conta
 If you use PCGM in your research, please add the following bibtex citation in your references.
 
 ```
-@inproceedings{Leveraging2020Wu,
-    author = {Wu, Zhijing and Mao, Jiaxin and Liu, Yiqun and Zhan, Jingtao and Zheng, Yukun and Zhang, Min and Ma, Shaoping},
-    title = {Leveraging Passage-Level Cumulative Gain for Document Ranking},
-    year = {2020},
-    isbn = {9781450370233},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    url = {https://doi.org/10.1145/3366423.3380305},
-    doi = {10.1145/3366423.3380305},
-    booktitle = {Proceedings of The Web Conference 2020},
-    pages = {2421–2431},
-    numpages = {11},
-    keywords = {document ranking, Passage-level cumulative gain, neural network},
-    location = {Taipei, Taiwan},
-    series = {WWW '20}
+@inproceedings{wu2020leveraging,
+    title={Leveraging passage-level cumulative gain for document ranking},
+    author={Wu, Zhijing and Mao, Jiaxin and Liu, Yiqun and Zhan, Jingtao and Zheng, Yukun and Zhang, Min and Ma, Shaoping},
+    booktitle={Proceedings of The Web Conference 2020},
+    pages={2421--2431},
+    year={2020}
 }
 ```
 
